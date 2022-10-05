@@ -4,7 +4,9 @@ https://colab.research.google.com/github/euglpz/roma_airbnb/blob/main/Roma.ipynb
   
   
 Muchas gracias
-  
+
+-------------
+
 To access to the project Roma-Airbnb, you have to go to **Roma.ipynb** file  
 or in the link below:  
 https://colab.research.google.com/github/euglpz/roma_airbnb/blob/main/Roma.ipynb  
